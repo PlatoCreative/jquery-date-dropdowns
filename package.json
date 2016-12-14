@@ -1,7 +1,6 @@
 {
   "name": "jquery-date-dropdowns-forked",
   "version": "1.0.0",
-  "private": true,
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-cli": "~0.1.13",
